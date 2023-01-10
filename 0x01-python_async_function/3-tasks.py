@@ -2,6 +2,7 @@
 """
 defines a sync function task_wait_random that
 imports wait_random from 0-basic_async_syntax
+with max_delay as it argument
 """
 import asyncio
 wait_random = __import__("0-basic_async_syntax").wait_random

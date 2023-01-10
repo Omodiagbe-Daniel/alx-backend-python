@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 defines a sync function task_wait_random that
 imports wait_random from 0-basic_async_syntax
